@@ -1,0 +1,63 @@
+body {
+    background-color: #ffffff;
+}
+
+#login,
+#resetpassword,
+#sendmailpass {
+    background-image: url('../img/fondo.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-color: #279357;
+}
+
+#app {
+    padding: 20px 0 50px 0;
+}
+
+#formLogin,
+#formReset {
+    margin: 5% auto;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#formularioLogin {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.8;
+    -moz-opacity: 0.7;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+/* .formLogin {
+    margin-top: 20px;
+    width: 330px;
+    height: 35px;
+} */
+
+.btn_singIn {
+    margin-top: 20px;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #29ab3e;
+    color: white;
+    border: none;
+    font-size: 15px;
+}
+
+.item-menu {
+    display: inline-block;
+    margin-left: 20px;
+    color: white;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#footer {
+    padding-top: 324px;
+}

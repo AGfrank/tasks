@@ -1,0 +1,12 @@
+/* este archivo fue creado nada mas para el modulo de cliente menu  de ayuda */
+.Icno-Subir{
+    top: 64%;
+    
+    font-size: 43px;
+    padding-left: 140px;
+    cursor: pointer;
+}
+/* color para el titulo de los botones*/
+#letra{
+    color:currentColor!important ;
+}

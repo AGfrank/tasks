@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'one_month_before_contract_expires' => 'Estimado cliente, Su contrato estÁ prÓximo a vencer en $n dÍas le recomendamos comunicarse con nuestros ejecutivos para gestionar la renovaciÓn del servicio.',
+    'within_grace_period' => 'Estimado cliente su contrato se ha vencido. Tiene $n dÍas para continuar disfrutando del servicio. ComunÍquese con nuestros ejecutivos para gestionar su renovaciÓn.',
+    'expired_contract' => 'Estimado cliente su contrato se venciÓ hace $n dÍas. ComunÍquese con nuestros ejecutivos para gestionar su renovaciÓn.',
+    'user_does_not_exist' => 'Usuario no se Encuentra Registrado.',
+    'contract_does_not_exist' => 'AÚn no Tiene un Contrato Registrado.',
+    'data_updated' => '¡Dato(s) actualizado(s) exitosamente!',
+    'register_created' => '¡Registro creado exitosamente!',
+    'assign_created' => '¡AsigaciÓn Éxitosa!',
+    'assign_document_success' => '¡AsigaciÓn de documento exitosamente!',
+    'register_deleted' => '¡Registro eliminado exitosamente!',
+    'data_not_found' => 'Dato no encontrado',
+    'there_no_updates_this_period' => 'No hubo actualizaciones en este periodo',
+    'filter_empty' => 'Debe ingresar filtro para la bÚsqueda',
+    'filter_empty_start_date' => 'Debe ingresar fecha de inicio para gererar reporte',
+    'reset_password_notification' => 'Reestablecer notificaciÓn de contraseÑa',
+    'address_mail' => 'Dirección de Correo',
+    'password' => 'Contraseña',
+    'msg_rp_notification_one' => 'Estimado usuario',
+    'msg_rp_notification_two' => 'Usted ha solicitado el restablecimiento de su contraseña, presione el siguiente boton y siga los pasos',
+    'msg_rp_notification_three' => 'Recuerde que en Q-Monitor cuenta con la atención de nuestro equipo técnico, Si presenta algún inconveniente adicional para acceder a la plataforma póngase en contacto con nosotros  a través de la siguiente dirección de correo electrónico',
+    'msg_rp_notification_four' => 'La información contenida en este correo electrónico es de carácter confidencial. Sólo está permitido su uso, copia, transmisión, recepción o distribución a personas debidamente autorizadas. Si usted recibió este correo por error por favor destrúyalo y/o elimine cualquier copia y notifique inmediatamente a la dirección de correo electrónico',
+    'select_area' => 'Ingresa una Área en el campo de otra Área',
+];
